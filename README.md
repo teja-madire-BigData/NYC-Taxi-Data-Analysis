@@ -1,3 +1,6 @@
 # NYC-Taxi-Data-Analysis
 
-https://github.com/teja-madire-BigData/NYC-Taxi-Data-Analysis/blob/main/NYC-TAXI-DE-PROJECT/Architecture_Image.jpeg
+## Architecture 
+
+
+![Architecture_Image](https://github.com/user-attachments/assets/f46d234a-3396-4afa-a6b6-50321ad4a770)
