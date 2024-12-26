@@ -2,5 +2,5 @@
 
 ## Architecture 
 
+![Architecture_Image](https://github.com/user-attachments/assets/db866281-7a35-4083-9c13-6bf6d82222c9)
 
-![Architecture_Image](https://github.com/user-attachments/assets/f46d234a-3396-4afa-a6b6-50321ad4a770)
